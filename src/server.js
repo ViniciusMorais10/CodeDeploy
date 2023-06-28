@@ -10,5 +10,5 @@ app.get('/deploy', (request, response) => {
 })
 
 app.listen(3000, () => {
-  console.log("Server is runnig");
+  console.log("Server is runnig !");
 });
